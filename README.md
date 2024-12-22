@@ -1,3 +1,3 @@
 - I’m @ignasial
-- currently studying Computer Science at UPC (FIB)
+- currently studying Computer Engineering at UPC (FIB)
   
