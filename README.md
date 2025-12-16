@@ -1,12 +1,12 @@
-<h1 align="center">Hola 👋, soy Juan</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi, my name is Ignasi!</h1>
+<h3 align="center">Computer Science student</h3>
 
 ---
 
-### 🧠 Sobre mí
-- 💻 Me gusta construir productos útiles
-- 🌱 Aprendiendo Next.js y Docker
-- ⚡ Fan del clean code
+###   About me
+-  I like building solutions with a mathematical and logical mindset
+-  Interested in cybersecurity
+-  Keeping things as simple as possible
 
 ---
 
@@ -21,11 +21,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ignasial&show_icons=true&theme=radical"/>
 </p>
 
 ---
 
-### 🌐 Conecta conmigo
-- 💼 LinkedIn: [tu-link]
-- 🌍 Portafolio: [tu-web]
+### Contact me!
+-  LinkedIn: https://www.linkedin.com/in/ignasi-albert/
+- 
