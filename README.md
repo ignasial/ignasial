@@ -5,7 +5,7 @@
 
 ###  About me
 -  I like building solutions with a mathematical and logical mindset
--  Interested in cybersecurity
+-  Interested in Cybersecurity and Artificial Intelligence
 -  Keeping things as simple as possible
 
 ---
