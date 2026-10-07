@@ -5,6 +5,8 @@
 
 ###  About me
 -  Passionate about Maths and Computer Science
+-  Lifelong learner
+  
 
 ---
 
