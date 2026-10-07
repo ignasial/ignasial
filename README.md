@@ -28,7 +28,7 @@
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=ignasial&show_icons=true&theme=radical" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignasial&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" />
+  <img width="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignasial&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" />
 </p>
 
 ---
