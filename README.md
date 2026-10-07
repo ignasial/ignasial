@@ -4,9 +4,7 @@
 ---
 
 ###  About me
--  I like building solutions with a mathematical and logical mindset
--  Interested in Data Science and Artificial Intelligence
--  Keeping things as simple as possible
+-  Passionate about Maths and Computer Science
 
 ---
 
@@ -14,6 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
