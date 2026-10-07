@@ -24,6 +24,8 @@
 ---
 
 ### GitHub Stats
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignasial&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Ignasi's Most Used Languages" />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ignasial&show_icons=true&theme=radical"/>
 </p>
