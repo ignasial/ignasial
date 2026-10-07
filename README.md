@@ -3,14 +3,15 @@
 
 ---
 
-###  About me
--  Passionate about Maths and Computer Science
--  Lifelong learner
-  
+### About me
+
+* Passionate about Maths and Computer Science
+* Lifelong learner
 
 ---
 
 ### Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c"/>
@@ -24,14 +25,14 @@
 ---
 
 ### GitHub Stats
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignasial&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Ignasi's Most Used Languages" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignasial&show_icons=true&theme=radical"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ignasial&show_icons=true&theme=radical" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignasial&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" />
 </p>
 
 ---
 
 ### Contact me!
--  LinkedIn: https://www.linkedin.com/in/ignasi-albert/
-  
+
+* LinkedIn: https://www.linkedin.com/in/ignasi-albert/
