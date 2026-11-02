@@ -23,13 +23,6 @@
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" alt="Linux" />
 </p>
 
----
-
-### GitHub Stats
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ignasial&show_icons=true&theme=radical" alt="Ignasi's GitHub Stats" />
-  <img width="274" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignasial&show_icons=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Top Languages" />
-</p>
 
 ---
 
